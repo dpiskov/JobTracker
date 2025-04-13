@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobTracker.Web", "JobTracker.Web\JobTracker.Web.csproj", "{82E93896-66B6-4A6A-91A5-48DE5C7ED841}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobTracker.Data.Models", "JobTracker.Data.Models\JobTracker.Data.Models.csproj", "{695018EC-BE3E-4588-A7DC-2FFE005A0007}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{82E93896-66B6-4A6A-91A5-48DE5C7ED841}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82E93896-66B6-4A6A-91A5-48DE5C7ED841}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82E93896-66B6-4A6A-91A5-48DE5C7ED841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{695018EC-BE3E-4588-A7DC-2FFE005A0007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695018EC-BE3E-4588-A7DC-2FFE005A0007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695018EC-BE3E-4588-A7DC-2FFE005A0007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695018EC-BE3E-4588-A7DC-2FFE005A0007}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
